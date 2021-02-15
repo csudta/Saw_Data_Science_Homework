@@ -8,7 +8,7 @@ cd homework2     #change a directory to the recently made folder
 git init         #turn this directory into a repository
 touch file1.txt file2.txt  #add files to the directory
 touch steps.txt  #this is the current file. Adding texts here
-git add steps.text   #start keeping track of this file
+git add steps.txt   #start keeping track of this file
 git add file1.txt    #keeping track of another file
 
 
