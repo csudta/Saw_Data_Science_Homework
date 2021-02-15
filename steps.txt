@@ -6,9 +6,17 @@ cd ~/Desktop
 mkdir homework2  #this is a new folder
 cd homework2     #change a directory to the recently made folder
 git init         #turn this directory into a repository
+
+Step 2: Add new files to the directory
 touch file1.txt file2.txt  #add files to the directory
 touch steps.txt  #this is the current file. Adding texts here
 git add steps.txt   #start keeping track of this file
 git add file1.txt    #keeping track of another file
+
+Step 3: Explore git log, git diff and git show
+git log          #view previous commits occurred in the project/repo
+git diff         #compare current and previous (saved) versions
+git show         #
+
 
 
