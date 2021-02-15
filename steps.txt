@@ -16,7 +16,6 @@ git add file1.txt    #keeping track of another file
 Step 3: Explore git log, git diff and git show
 git log          #view previous commits occurred in the project/repo
 git diff         #compare current and previous (saved) versions
-git show         #
 
 
 
