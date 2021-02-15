@@ -17,5 +17,13 @@ Step 3: Explore git log, git diff and git show
 git log          #view previous commits occurred in the project/repo
 git diff         #compare current and previous (saved) versions
 
+Step 4: Make a repo in Github 
+1. go to Github, repositoty, add new repo. 
+2. push change from laptop to the remore repository 
+git remote add origin https://github.com/csudta/homework2  #this is the url to the remote repo
+git remote -v
+git push origin master    #push the changes from laptop to the remote repo to a branch "master"
 
-
+3. make changg in Github (I'm currently doing!)
+4. pull change to laptop
+git pull origin master
