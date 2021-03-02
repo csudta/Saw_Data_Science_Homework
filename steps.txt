@@ -27,3 +27,6 @@ git push origin master    #push the changes from laptop to the remote repo to a 
 3. make changg in Github (I'm currently doing!)
 4. pull change to laptop
 git pull origin master
+
+
+## excellent you just also want to comment out all the lines with documentation. (e.g. line 10,16,20...)
